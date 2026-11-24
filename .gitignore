@@ -1,0 +1,16 @@
+# Python
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+
+# Node / React
+node_modules/
+build/
+
+# Локальні налаштування
+.env
+
+# Інше
+.playwright-cli/
+.DS_Store
